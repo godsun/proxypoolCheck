@@ -1,4 +1,4 @@
-module github.com/Sansui233/proxypoolCheck
+module github.com/godsun/proxypoolCheck
 
 go 1.15
 
