@@ -5,7 +5,7 @@ server_url: https://example.proxypoolserver.com
 # For your local server
 request: http   # http / https
 domain:         # default: 127.0.0.1
-port:           # default: 80
+port:           # default: 8080
 
 show_remote_speed: true # default false
 
